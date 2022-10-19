@@ -3,9 +3,8 @@ h1{
 	font-size:30px;
 	font-style: italic;
 }
-p{
-	text-align: center;
-
+P{
+ 	
 }
 #today{
 	font-size: 20px;
@@ -34,7 +33,8 @@ p{
 #baner{
 	width: 50%;
 	height:300px;
-
+	margin-right: 0px;
+	margin-left: 0px;
 }
 #banner2{
 	width: 50%;
@@ -50,14 +50,14 @@ h2{
 	font-style: oblique;
 }
 em{
-	color: blue;
+color: #ff0000;
 }
 #rodape{
 	width: 100%;
 	height: 100px;
 	background:white ;
 }
-#Matricule-se{
+#matricula{
 	width: 10%;
 	height: 25px;
 	color: red;
